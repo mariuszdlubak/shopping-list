@@ -2,6 +2,8 @@
 
 My first independent project created using React.
 
+:link: [Live](https://mariuszdlubak.github.io/shopping-list/)
+
 ## Features
 
 - Cross platform
